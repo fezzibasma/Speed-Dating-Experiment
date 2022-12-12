@@ -19,7 +19,7 @@ How to get Data : https://www.kaggle.com/annavictoria/speed-dating-experiment
 
 To run this project :
 
-## Clone the repo:
+## Clone the repository :
 
 git clone https://github.com/fezzibasma/Speed-Dating-Experiment.git
 
