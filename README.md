@@ -15,11 +15,11 @@ How to get Data : https://www.kaggle.com/annavictoria/speed-dating-experiment
 
 To run this project,
 
-- Clone the repo:
+# Clone the repo:
 
 git clone https://github.com/hicham-mrani/Speed-Dating-Experiment.git
 
-- Install python libraries
+# Install python libraries
 
 pip3 install -r requirements.txt
 or
