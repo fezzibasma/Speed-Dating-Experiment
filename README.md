@@ -13,8 +13,6 @@ An analysis on the Speed Dating dataset from Kaggle : https://www.kaggle.com/ann
 How to get Data : https://www.kaggle.com/annavictoria/speed-dating-experiment
 
 
-Getting started
-
 To run this project,
 
 - Clone the repo:
