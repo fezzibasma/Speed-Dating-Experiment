@@ -21,7 +21,7 @@ To run this project,
 
 ## Clone the repo:
 
-git clone https://github.com/hicham-mrani/Speed-Dating-Experiment.git
+git clone https://github.com/fezzibasma/Speed-Dating-Experiment.git
 
 ## Install python libraries
 
