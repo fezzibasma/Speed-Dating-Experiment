@@ -1,4 +1,4 @@
-# Bloc 2 : ## [Exploratory, Descriptive & Inferential Data Analysis ] Mandatory for JedhaBootcamp certification 
+# Bloc 2 : [Exploratory, Descriptive & Inferential Data Analysis ] Mandatory for JedhaBootcamp certification 
 
 Email : fezzibasma@gmail.com
 
