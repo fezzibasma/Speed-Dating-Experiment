@@ -17,7 +17,7 @@ How to get Data : https://www.kaggle.com/annavictoria/speed-dating-experiment
 
 
 
-To run this project,
+To run this project :
 
 ## Clone the repo:
 
