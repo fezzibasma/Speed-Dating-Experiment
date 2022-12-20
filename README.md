@@ -23,9 +23,3 @@ To run this project :
 
 git clone https://github.com/fezzibasma/Speed-Dating-Experiment.git
 
-## Install python libraries
-
-pip3 install -r requirements.txt
-or
-
-pip install -r requirements.txt
